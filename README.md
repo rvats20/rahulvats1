@@ -1,2 +1,2 @@
-# rahulvats1.githuv.io
+# rahulvats1.github.io
 This is my personal website
