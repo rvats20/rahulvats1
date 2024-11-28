@@ -1,2 +1,3 @@
-# rahulvats1.github.io
-This is my personal website
+# rvats20.github.io/rahulvats1
+## This is my personal website
+
